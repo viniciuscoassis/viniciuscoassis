@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node.js / PostgreSQL**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
-- 💬 Ask me about **react, css, sass**
+- 💬 Ask me about **React, css, Node.js, express**
 
 - 📫 How to reach me **vinicius.coassis@gmail.com**
 
