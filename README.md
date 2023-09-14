@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate Fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Backend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Nextjs with Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
-- 💬 Ask me about **React, css, Node.js, express**
+- 💬 Ask me about **Node.js, typescript, express**
 
 - 📫 How to reach me **vinicius.coassis@gmail.com**
 
