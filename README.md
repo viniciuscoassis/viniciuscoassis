@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate Backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python and AWS serverless**
+- 🌱 I’m currently learning **Nest and PrismaORM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
