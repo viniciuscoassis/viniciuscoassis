@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate Backend developer from Brazil</h3>
+<h4 align="center">Currently diving into web3 developing </h4>
 
-- 🌱 I’m currently learning **Nest and PrismaORM**
+- 🌱 I’m currently learning **Vue with quasar and Solidity development with Foundry**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
-- 💬 Ask me about **Node.js, typescript, express**
+- 💬 Ask me about **Node.js, typescript, WEB3**
 
 - 📫 How to reach me **vinicius.coassis@gmail.com**
 
