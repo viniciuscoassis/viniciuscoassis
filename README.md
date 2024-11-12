@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate Backend developer from Brazil</h3>
+<h3 align="center">A passionate smart contract developer from Brazil</h3>
 <h4 align="center">Currently diving into web3 developing </h4>
 
-- 🌱 I’m currently learning **Aws solutions and Solidity development with Foundry**
+- 🌱 I’m currently learning **Smart Contract Security Reviews**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
