@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
-- 💬 Ask me about **web3, solidity, smart contract bugs**
+- 💬 Ask me about **web3, solidity, evm bytecodes, smart contract bugs**
 
 - 📫 How to reach me **vinicius.coassis@gmail.com**
 
