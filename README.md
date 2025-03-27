@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate smart contract developer from Brazil</h3>
-<h4 align="center">Currently diving into web3 developing </h4>
+<h3 align="center">web3 Security Researcher </h3>
+<h4 align="center">Currently doing audit contests </h4>
 
-- 🌱 I’m currently learning **Smart Contract Security Reviews**
+- 🌱 I’m currently learning **Popular protocols architectures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
 
-- 💬 Ask me about **Node.js, typescript, WEB3**
+- 💬 Ask me about **web3, solidity, smart contract bugs**
 
 - 📫 How to reach me **vinicius.coassis@gmail.com**
-
-- ⚡ Fun fact **im a barista in my spare time**
 
 ####
 
