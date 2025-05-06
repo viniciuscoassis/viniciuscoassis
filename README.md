@@ -1,35 +1,54 @@
-<h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">web3 Security Researcher </h3>
-<h4 align="center">Currently doing audit contests </h4>
+# Bumble 
+## Security Researcher
 
-- 🌱 I’m currently learning **Popular protocols architectures**
+[![Twitter](https://img.shields.io/badge/Twitter-@bumblebeed11-blue)](https://x.com/bumblebeed11)
+[![Telegram](https://img.shields.io/badge/Telegram-@bumblebeed11-blue)](https://t.me/bumblebeed11)
 
-- 👨‍💻 All of my projects are available at [https://github.com/viniciuscoassis](https://github.com/viniciuscoassis)
+Currently working as a Security Researcher at **33 Audits**
 
-- 💬 Ask me about **web3, solidity, evm bytecodes, smart contract bugs**
+### 📊 Security Summary
+- **Total Findings**: 7 High, 8 Medium, 6 Low
+- **Projects Audited**: 5 (2 Public, 3 Private)
+- **Focus Areas**: EVM Security, DeFi Protocols, Uniswap v4, Uniswap v4 Hooks
 
-- 📫 How to reach me **vinicius.coassis@gmail.com**
+#### Public Audit Contests
+- **Lambowin**: 1 High, 3 Medium findings
+- **Sorella Labs**: 1 Low finding
 
-####
+#### Private Audits
+- **BackGeoOracle** (Uniswap v4 Hook Oracle)
+  - 2 High, 2 Low findings
+  - Universal Oracle for DeFi with PoS resistance
+  - Automated backrunning mechanism for price manipulation prevention
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-assis1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-assis1/" height="30" width="40" /></a>
-<h5> Email: vinicius.coassis@gmail.com </h5>
- 
-##
+- **v4-router**
+  - 1 High, 1 Low finding
+  - A simple and optimized router for swapping on Uniswap V4. ABI inspired by UniswapV2Router02.
+  - [Audit Report](https://github.com/z0r0z/v4-router/blob/main/audits/33audits-v4-router-audit-report.pdf)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&username=viniciuscoassis" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=viniciuscoassis" height="150" alt="languages graph"  />
-</div>
+- **Gaia Protocol**
+  - 2 High, 5 Medium, 3 Low findings
+  - Decentralized domain name service on Ethereum
+  - Domain registration, staking, and governance system
 
+### 💻 Solidity Development Projects
 
+- [points-hook](https://github.com/viniciuscoassis/points-hook) - Uniswap v4 hook for ERC1155 point system
+- [Vortex Foundation](https://www.vortexfdn.xyz/) - Full web3 website (Next.js, viem, wagmi, rainbowkit)
+- [foundry-defi-stablecoin-f24](https://github.com/viniciuscoassis/foundry-defi-stablecoin-f24) - Stablecoin project
+- [foundry-lottery](https://github.com/viniciuscoassis/foundry-lottery) - Lottery system using Foundry
+- [foundry-fund-me](https://github.com/viniciuscoassis/foundry-fund-me) - Basic fund me web3 app
+- [foundry-uups-upgrade](https://github.com/viniciuscoassis/foundry-uups-upgrade) - POC on upgradabilities
 
-###
+### 🛠️ Technical Skills
+- Smart Contract Security
+- EVM Security Research
+- Foundry
+- Solidity
+- Web3 Development
+- Next.js
+- viem/wagmi
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/viniciuscoassis/count.svg?"  />
-</div>
-
-###
+### �� Contact
+- Twitter: [@bumblebeed11](https://x.com/bumblebeed11)
+- Telegram: [@bumblebeed11](https://t.me/bumblebeed11)
