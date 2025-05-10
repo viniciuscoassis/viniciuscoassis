@@ -34,6 +34,7 @@ Currently working as a Security Researcher at **33 Audits**
 ### 💻 Solidity Development Projects
 
 - [points-hook](https://github.com/viniciuscoassis/points-hook) - Uniswap v4 hook for ERC1155 point system
+- [gas-price-dynamic-fee-hook](https://github.com/viniciuscoassis/gas-price-dynamic-fee-hook) - Uniswap v4 hook that dynamically adjusts pool fees based on gas prices
 - [Vortex Foundation](https://www.vortexfdn.xyz/) - Full web3 website (Next.js, viem, wagmi, rainbowkit)
 - [foundry-defi-stablecoin-f24](https://github.com/viniciuscoassis/foundry-defi-stablecoin-f24) - Stablecoin project
 - [foundry-lottery](https://github.com/viniciuscoassis/foundry-lottery) - Lottery system using Foundry
