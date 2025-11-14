@@ -35,10 +35,12 @@ Currently working as a Security Researcher at **33 Audits**
 
 - [Eth Latam Hackaton Winner](https://github.com/Tribo-Hackathon/Tribo) - Base mini app that bootstraps on-chain communities for creators (Discord + NFT Gated + DAO integration).
   - [Live Website](https://tribo.vortexfdn.xyz/) - Live website.
-- [gas-price-dynamic-fee-hook](https://github.com/viniciuscoassis/gas-price-dynamic-fee-hook) - Uniswap v4 hook that dynamically adjusts pool fees based on gas prices
-- [points-hook](https://github.com/viniciuscoassis/points-hook) - Uniswap v4 hook for ERC1155 point system
+  
 - [Vortex Foundation](https://www.vortexfdn.xyz/) - Live NFT project on Sonic, where user get to choose their traits (Next.js, viem, wagmi, rainbowkit) + Automations
   - [Live Website](https://www.vortexfdn.xyz/mint) - Live website
+  
+- [gas-price-dynamic-fee-hook](https://github.com/viniciuscoassis/gas-price-dynamic-fee-hook) - Uniswap v4 hook that dynamically adjusts pool fees based on gas prices
+- [points-hook](https://github.com/viniciuscoassis/points-hook) - Uniswap v4 hook for ERC1155 point system
 - [foundry-defi-stablecoin-f24](https://github.com/viniciuscoassis/foundry-defi-stablecoin-f24) - Stablecoin project
 - [foundry-lottery](https://github.com/viniciuscoassis/foundry-lottery) - Lottery system using Foundry
 - [foundry-fund-me](https://github.com/viniciuscoassis/foundry-fund-me) - Basic fund me web3 app
