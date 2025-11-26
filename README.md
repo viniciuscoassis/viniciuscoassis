@@ -33,11 +33,19 @@ Currently working as a Security Researcher at **33 Audits**
 
 ### 💻 Solidity Development Projects
 
+-[Eth Global ARG Hackathon Winner](https://github.com/Eth-hackathons/ethglobal) - App on chiliz where creators can import prediction market from Polymarket, discuss about it, bet their CHZ, and after a trigger it bridges to polygon to apply the bet.
+[Live Website](https://predit-joao4xz-joao4xzs-projects.vercel.app/)
+🥈 2º place - Chilliz Track
+
 - [Eth Latam Hackaton Winner](https://github.com/Tribo-Hackathon/Tribo) - Base mini app that bootstraps on-chain communities for creators (Discord + NFT Gated + DAO integration).
-  - [Live Website](https://tribo.vortexfdn.xyz/) - Live website.
+[Live Website](https://tribo.vortexfdn.xyz/)
+🏅 General - ETHLatam
+🥈 2º place - Base Track
+🏅 Top 3 Chainlink Integration
+  
   
 - [Vortex Foundation](https://www.vortexfdn.xyz/) - Live NFT project on Sonic, where user get to choose their traits (Next.js, viem, wagmi, rainbowkit) + Automations
-  - [Live Website](https://www.vortexfdn.xyz/mint) - Live website
+[Live Website](https://www.vortexfdn.xyz/mint)
   
 - [gas-price-dynamic-fee-hook](https://github.com/viniciuscoassis/gas-price-dynamic-fee-hook) - Uniswap v4 hook that dynamically adjusts pool fees based on gas prices
 - [points-hook](https://github.com/viniciuscoassis/points-hook) - Uniswap v4 hook for ERC1155 point system
